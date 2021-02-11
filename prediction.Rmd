@@ -176,4 +176,4 @@ c50Fit$finalModel
 What does the model summary tell us? Which model do you believe is the best?
 It is really hard to say which one is the best model.When comparing the three models, the overall accuracies are pretty close about 0.90, the senstivity for these three models are not very high which are about 0.65,the specificity for these three models are very high which are about 0.99 
 Which variables (features) within your chosen model are important, do these features provide insights that may be useful in solving the problem of students dropping out of courses?
-years and course_id. Yes, these two features are most important in seperating the dataset.
+years and course_id. Yes, these two features are most important in seperating the dataset
